@@ -105,7 +105,7 @@ sales_forecast_project/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/OrkoDutta/sales-forecast-pipeline.git
+git clone https://github.com/Orko-Dutta-13/sales-forecast-pipeline.git
 cd sales-forecast-pipeline
 ```
 
