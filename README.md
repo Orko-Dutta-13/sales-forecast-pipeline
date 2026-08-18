@@ -249,7 +249,7 @@ into the training set.
 
 **Orko Dutta**
 - Email: oorkodutta@gmail.com
-- GitHub: [github.com/OrkoDutta](https://github.com/OrkoDutta)
+- GitHub: [github.com/OrkoDutta](https://github.com/Orko-Dutta-13)
 
 ---
 
