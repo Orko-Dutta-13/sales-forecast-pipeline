@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: raw
+    database: sales_forecast
+    schema: main
+    tables:
+      - name: raw_train
+      - name: raw_test
+      - name: raw_stores
+      - name: raw_oil
+      - name: raw_holidays
+      - name: raw_transactions

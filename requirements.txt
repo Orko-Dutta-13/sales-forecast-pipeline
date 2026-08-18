@@ -1,0 +1,16 @@
+pandas
+numpy
+duckdb
+dbt-core
+dbt-duckdb
+prophet
+xgboost
+scikit-learn
+fastapi
+uvicorn
+streamlit
+plotly
+matplotlib
+seaborn
+joblib
+requests

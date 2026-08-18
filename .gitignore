@@ -1,0 +1,23 @@
+# Data files (too large for GitHub)
+data/raw/
+data/*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+.env
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# dbt
+dbt_project/target/
+dbt_project/dbt_packages/
+dbt_project/logs/
+
+# OS files
+.DS_Store
+Thumbs.db
